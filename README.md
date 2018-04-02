@@ -1,0 +1,2 @@
+# frst_django
+demo
